@@ -58,6 +58,7 @@
     <Compile Include="Alien.cs" />
     <Compile Include="Bombs.cs" />
     <Compile Include="Lasers.cs" />
+    <Compile Include="Sprite.cs" />
     <Compile Include="User.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
